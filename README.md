@@ -4,7 +4,10 @@ This project is a web application that visually demonstrates the Bubble Sort alg
 
 ![Bubble Sort Visualization Demo](https://github.com/premgodara-oss/bubble-sort-Visualization/issues/1#issue-2383009644)
 
+## DEMO
+![ Visualization Demo](https://premgodara-oss.github.io/bubble-sort-Visualization/)
 
+ 
 ## Technologies Used
 - HTML
 - CSS
