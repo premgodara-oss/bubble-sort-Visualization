@@ -2,10 +2,10 @@
 
 This project is a web application that visually demonstrates the Bubble Sort algorithm using animated blocks representing array elements. It's designed to help understand how the sorting process works step-by-step.
 
-![Bubble Sort Visualization Demo](https://github.com/premgodara-oss/bubble-sort-Visualization/issues/1#issue-2383009644)
+ 
 
 ## DEMO
-![ Visualization Demo](https://premgodara-oss.github.io/bubble-sort-Visualization/)
+[ Visualization Demo](https://premgodara-oss.github.io/bubble-sort-Visualization/)
 
  
 ## Technologies Used
